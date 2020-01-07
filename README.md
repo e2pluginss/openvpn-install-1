@@ -1,6 +1,6 @@
 # openvpn-install
 
-OpenVPN installer for Debian, Ubuntu, Fedora, CentOS and Arch Linux.
+OpenVPN installer for  Ubuntu 18.04 LTS 64 bit
 
 This script will let you setup your own secure VPN server in just a few seconds.
 
